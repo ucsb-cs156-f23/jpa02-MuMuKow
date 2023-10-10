@@ -1,6 +1,6 @@
 # jpa02-MuMuKow
 
-Repo: https://ucsb-cs156-f23/jpa02-MuMuKow
+Repo: https://github.com/ucsb-cs156-f23/jpa02-MuMuKow
 
 Deployed at: http://jpa02-mumukow.dokku-10.cs.ucsb.edu
 
